@@ -1,2 +1,2 @@
 # Thanh Hai Tran
-### PhD candidate in Linguistics
+## PhD candidate in Linguistics
